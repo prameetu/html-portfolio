@@ -1,0 +1,42 @@
+/************Tag Selectors***********/
+body {
+    background-color: #E8F6EF;   
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;     
+    border-color: grey;  
+    border-width: 3px;  
+    width: 30%;
+}
+img:hover{
+    height: 200px;
+    width: 200px;
+    background-color:darkolivegreen ;
+}
+h1{
+    color: #262A53;
+}
+h2{
+    color: #1FAB89;
+}
+h3{
+    color: #1FAB89;
+}
+/************Class Selectors***********/
+
+.badminton{
+    background-color: black;
+}
+
+.boxing{
+    background-color: white;
+}
+
+/************Id Selectors***********/
+#Tech{
+    color: teal;
+}
+#Non-tech{
+    color: turquoise;
+}
